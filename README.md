@@ -4,7 +4,7 @@ My name is Jean-Charles. I'm a software developer specifically interested in
 functional programming. I like to contribute to OSS and also to build my own 
 software.
 
-Here are a few cool projects I've done for my own need:
+Here are a few cool projects I've done for my own needs:
 - [diverk](https://github.com/jecaro/diverk/): An Android app to browse GitHub 
   repositories.
 - [mprisqueeze](https://github.com/jecaro/mprisqueeze/): An [MPRIS] interface 
