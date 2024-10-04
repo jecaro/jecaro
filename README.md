@@ -23,6 +23,9 @@ Or just for fun:
 - [minihasklisp](https://github.com/jecaro/minihasklisp): A minimalist LISP 
   interpreter.
 - [wolfram](https://github.com/jecaro/wolfram): Elementary cellular automaton.
+- [reflex-tutorial](https://github.com/jecaro/reflex-tutorial): The official 
+  [tutorial](https://reflex-frp.org/tutorial) for 
+  [reflex](https://reflex-frp.org/) along a few other interesting examples.
 
 Also check out my [website](https://jeancharles.quillet.org/).
 
