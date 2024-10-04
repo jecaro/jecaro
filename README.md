@@ -27,7 +27,17 @@ Or just for fun:
   [tutorial](https://reflex-frp.org/tutorial) for 
   [reflex](https://reflex-frp.org/) along a few other interesting examples.
 
+My [neovim] plugins:
+- [ghcid-error-file.nvim](https://github.com/jecaro/ghcid-error-file.nvim): 
+  Fast feedback loop with [ghcid] or [ghciwatch].
+- [fugitive-difftool.nvim](https://github.com/jecaro/fugitive-difftool.nvim): 
+  Diff branches in [neovim] with [fugitive].
+
 Also check out my [website](https://jeancharles.quillet.org/).
 
-[squeezelite]: https://github.com/ralph-irving/squeezelite
 [MPRIS]: https://specifications.freedesktop.org/mpris-spec/latest/
+[fugitive]: https://github.com/tpope/vim-fugitive
+[ghcid]: https://github.com/ndmitchell/ghcid
+[ghciwatch]: https://github.com/MercuryTechnologies/ghciwatch
+[neovim]: https://neovim.io/
+[squeezelite]: https://github.com/ralph-irving/squeezelite
