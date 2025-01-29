@@ -15,6 +15,8 @@ Here are a few cool projects I've done for my own needs:
   track time.
 - [bigball](https://github.com/jecaro/bigball): Display the dependencies of a 
   Microsoft Visual Studio solution file.
+- [pomodozig](https://github.com/jecaro/pomodozig): Terminal based pomodoro 
+  timer.
 
 Or just for fun:
 - [advent-of-code-2023](https://github.com/jecaro/advent-of-code-2023): My 
