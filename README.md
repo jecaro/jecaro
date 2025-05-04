@@ -11,6 +11,8 @@ Here are a few cool projects I've done for my own needs:
   for [squeezelite].
 - [systranything](https://github.com/jecaro/systranything): Let you put 
   anything in your system tray.
+- [circuix-sword](https://github.com/jecaro/circuix-sword/): nixos in a gameboy 
+  shell.
 - [hscalendar](https://github.com/jecaro/hscalendar): A Haskell/Elm webapp to 
   track time.
 - [bigball](https://github.com/jecaro/bigball): Display the dependencies of a 
