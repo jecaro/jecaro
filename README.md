@@ -19,6 +19,7 @@ Here are a few cool projects I've done for my own needs:
   Microsoft Visual Studio solution file.
 - [pomodozig](https://github.com/jecaro/pomodozig): Terminal based pomodoro 
   timer.
+- [htagcli](https://github.com/jecaro/htagcli): Command line audio tagger.
 
 Or just for fun:
 - [advent-of-code-2023](https://github.com/jecaro/advent-of-code-2023): My 
