@@ -25,7 +25,7 @@ Or just for fun:
 - [advent-of-code-2023](https://github.com/jecaro/advent-of-code-2023): My 
   solutions for the [Advent of Code 2023](https://adventofcode.com/2023) 
   challenge in Rust.
-- [minihasklisp](https://github.com/jecaro/minihasklisp): A minimalist LISP 
+- [minihasklisp](https://github.com/jecaro/minihasklisp): A minimalist Lisp 
   interpreter.
 - [wolfram](https://github.com/jecaro/wolfram): Elementary cellular automaton.
 - [reflex-tutorial](https://github.com/jecaro/reflex-tutorial): The official 
