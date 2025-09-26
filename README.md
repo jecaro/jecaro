@@ -38,8 +38,11 @@ My [neovim] plugins:
 - [fugitive-difftool.nvim](https://github.com/jecaro/fugitive-difftool.nvim): 
   Diff branches in [neovim] with [fugitive].
 
+The [nixpkgs packages] I maintain.
+
 Also check out my [website](https://jeancharles.quillet.org/).
 
+[nixpkgs packages]: https://github.com/search?q=repo%3ANixOS%2Fnixpkgs+maintainers+jecaro+language%3ANix&type=code
 [MPRIS]: https://specifications.freedesktop.org/mpris-spec/latest/
 [fugitive]: https://github.com/tpope/vim-fugitive
 [ghcid]: https://github.com/ndmitchell/ghcid
