@@ -11,6 +11,8 @@ Here are a few cool projects I've done for my own needs:
   for [squeezelite].
 - [systranything](https://github.com/jecaro/systranything): Let you put 
   anything in your system tray.
+- [htagcli](https://github.com/jecaro/htagcli): Command line audio tagger and 
+  music organizer.
 - [circuix-sword](https://github.com/jecaro/circuix-sword/): nixos in a gameboy 
   shell.
 - [hscalendar](https://github.com/jecaro/hscalendar): A Haskell/Elm webapp to 
@@ -19,7 +21,6 @@ Here are a few cool projects I've done for my own needs:
   Microsoft Visual Studio solution file.
 - [pomodozig](https://github.com/jecaro/pomodozig): Terminal based pomodoro 
   timer.
-- [htagcli](https://github.com/jecaro/htagcli): Command line audio tagger.
 
 Or just for fun:
 - [advent-of-code-2023](https://github.com/jecaro/advent-of-code-2023): My 
