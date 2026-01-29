@@ -21,6 +21,9 @@ Here are a few cool projects I've done for my own needs:
   Microsoft Visual Studio solution file.
 - [pomodozig](https://github.com/jecaro/pomodozig): Terminal based pomodoro 
   timer.
+- [your-hand-in-mine](https://github.com/jecaro/your-hand-in-mine): 
+  Transcription of an adaptation of the song `Your Hand in Mine` by Explosions 
+  in the Sky for piano.
 
 Or just for fun:
 - [advent-of-code-2023](https://github.com/jecaro/advent-of-code-2023): My 
