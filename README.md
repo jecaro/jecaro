@@ -15,6 +15,8 @@ Here are a few cool projects I've done for my own needs:
   music organizer.
 - [circuix-sword](https://github.com/jecaro/circuix-sword/): nixos in a gameboy 
   shell.
+- [mqttooth](https://github.com/jecaro/mqttooth/): An MQTT to Bluetooth Low 
+  Energy bridge.
 - [hscalendar](https://github.com/jecaro/hscalendar): A Haskell/Elm webapp to 
   track time.
 - [bigball](https://github.com/jecaro/bigball): Display the dependencies of a 
