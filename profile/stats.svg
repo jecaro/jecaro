@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Jean-Charles Quillet's GitHub Stats, Rank: A</title>
+        <title id="titleId">Jean-Charles Quillet's GitHub Stats, Rank: A+</title>
         <desc id="descId">Total Stars Earned: 186, Total Commits  (last year) : 859, Total PRs: 432, Total Issues: 66, Contributed to (last year): 11</desc>
         <style>
           .header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 31.43260797269016;
+        stroke-dashoffset: 31.049211645810765;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A
+          A+
         </text>
       
         </g>
