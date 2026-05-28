@@ -15,12 +15,14 @@ I maintain a few packages in
 ## Rust
 
 - [mprisqueeze](https://github.com/jecaro/mprisqueeze/): [MPRIS] interface for
-  [squeezelite]. Daily driver. Uses D-Bus, HTTP, async.
+  [squeezelite]. Uses D-Bus, HTTP, async.
   [![crates.io](https://img.shields.io/crates/v/mprisqueeze)](https://crates.io/crates/mprisqueeze)
 - [mqttooth](https://github.com/jecaro/mqttooth/): MQTT to Bluetooth Low
-  Energy bridge (Zigbee2MQTT → BLE Environmental Sensing). Runs on Raspberry
+  Energy bridge (Zigbee2MQTT -> BLE Environmental Sensing). Runs on Raspberry
   Pi.
   [![crates.io](https://img.shields.io/crates/v/mqttooth)](https://crates.io/crates/mqttooth)
+- [advent-of-code-2023](https://github.com/jecaro/advent-of-code-2023): My 
+  solutions to the Advent of Code 2023.
 
 ## Haskell
 
@@ -35,28 +37,26 @@ I maintain a few packages in
   Haskell backend + Elm frontend, deployed with Docker.
 - [bigball](https://github.com/jecaro/bigball): Dependency graph for Visual
   Studio solution files.
+- [minihasklisp](https://github.com/jecaro/minihasklisp): Minimalist Lisp
+  interpreter.
+- [wolfram](https://github.com/jecaro/wolfram): Elementary cellular automaton.
+- [reflex-tutorial](https://github.com/jecaro/reflex-tutorial): The official 
+  [tutorial](https://reflex-frp.org/tutorial) for 
+  [reflex](https://reflex-frp.org/) along a few other interesting examples.
 
-## Other
+## Neovim plugins
 
-- [circuix-sword](https://github.com/jecaro/circuix-sword/): NixOS in a
-  Gameboy shell. DIY retro handheld based on a Raspberry Pi CM3.
-- [pomodozig](https://github.com/jecaro/pomodozig): Terminal pomodoro timer in
-  Zig.
 - [ghcid-error-file.nvim](https://github.com/jecaro/ghcid-error-file.nvim): 
   Fast feedback loop with [ghcid] or [ghciwatch].
 - [fugitive-difftool.nvim](https://github.com/jecaro/fugitive-difftool.nvim): 
   Diff branches in [neovim] with [fugitive].
 
-## For fun
+## Other projects
 
-- [advent-of-code-2023](https://github.com/jecaro/advent-of-code-2023):
-  Advent of Code 2023 solutions in Rust.
-- [minihasklisp](https://github.com/jecaro/minihasklisp): Minimalist Lisp
-  interpreter in Haskell.
-- [wolfram](https://github.com/jecaro/wolfram): Elementary cellular automaton.
-- [reflex-tutorial](https://github.com/jecaro/reflex-tutorial): The official 
-  [tutorial](https://reflex-frp.org/tutorial) for 
-  [reflex](https://reflex-frp.org/) along a few other interesting examples.
+- [circuix-sword](https://github.com/jecaro/circuix-sword/): NixOS in a
+  Gameboy shell. DIY retro handheld based on a Raspberry Pi CM3.
+- [pomodozig](https://github.com/jecaro/pomodozig): Terminal pomodoro timer in
+  Zig.
 - [your-hand-in-mine](https://github.com/jecaro/your-hand-in-mine): Piano
   transcription of an Explosions in the Sky adaptation.
 
