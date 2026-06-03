@@ -5,7 +5,7 @@ experience. I specialize in **functional programming** and **systems
 programming**, currently working mainly in **Haskell**, **Rust**, and **Nix**.
 
 Check out my [website](https://jeancharles.quillet.org/) for articles and more, 
-or my [CV](https://github.com/jecaro/cv/raw/master/jeancharles.quillet-en.pdf) 
+or my [CV](https://github.com/jecaro/cv/raw/main/jeancharles.quillet-en.pdf) 
 for my full experience.
 
 I maintain a few packages in 
