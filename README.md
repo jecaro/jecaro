@@ -64,10 +64,10 @@ I maintain a few packages in
 <img height="180em" src="./profile/top-langs.svg" align = "center"/>
 </p>
 
-[nixpkgs packages]: 
-https://github.com/search?q=repo%3ANixOS%2Fnixpkgs+maintainers+jecaro+language%3ANix&type=code
 [MPRIS]: https://specifications.freedesktop.org/mpris-spec/latest/
 [fugitive]: https://github.com/tpope/vim-fugitive
 [ghcid]: https://github.com/ndmitchell/ghcid
 [ghciwatch]: https://github.com/MercuryTechnologies/ghciwatch
+[neovim]: https://neovim.io/
+[nixpkgs packages]: https://github.com/search?q=repo%3ANixOS%2Fnixpkgs+maintainers+jecaro+language%3ANix&type=code
 [squeezelite]: https://github.com/ralph-irving/squeezelite
