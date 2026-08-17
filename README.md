@@ -33,7 +33,7 @@ I maintain a few packages in
   your system tray from a YAML file.
   [![Hackage](https://img.shields.io/hackage/v/systranything)](https://hackage.haskell.org/package/systranything)
 - [hscalendar](https://github.com/jecaro/hscalendar): Time tracking webapp,
-  Haskell backend + Elm frontend, deployed with Docker.
+  Haskell backend + Elm frontend.
 - [bigball](https://github.com/jecaro/bigball): Dependency graph for Visual
   Studio solution files.
 - [minihasklisp](https://github.com/jecaro/minihasklisp): Minimalist Lisp
