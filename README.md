@@ -29,6 +29,7 @@ I maintain a few packages in
   repositories, built with Reflex (FRP).
 - [htagcli](https://github.com/jecaro/htagcli): Command line audio tagger and
   music organizer.
+  [![AUR](https://img.shields.io/aur/version/htagcli-bin)](https://aur.archlinux.org/packages/htagcli-bin)
 - [systranything](https://github.com/jecaro/systranything): Put anything in
   your system tray from a YAML file.
   [![Hackage](https://img.shields.io/hackage/v/systranything)](https://hackage.haskell.org/package/systranything)
