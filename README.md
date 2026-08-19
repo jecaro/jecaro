@@ -27,6 +27,7 @@ I maintain a few packages in
 
 - [diverk](https://github.com/jecaro/diverk/): Android app to browse GitHub
   repositories, built with Reflex (FRP).
+  [![Google Play](https://img.shields.io/badge/Google_Play-available-green)](https://play.google.com/store/apps/details?id=org.jecaro.diverk)
 - [htagcli](https://github.com/jecaro/htagcli): Command line audio tagger and
   music organizer.
   [![AUR](https://img.shields.io/aur/version/htagcli-bin)](https://aur.archlinux.org/packages/htagcli-bin)
