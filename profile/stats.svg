@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jean-Charles Quillet&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 196, Total Commits  (last year) : 905, Total PRs: 485, Total Issues: 79, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 197, Total Commits  (last year) : 905, Total PRs: 485, Total Issues: 79, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 27.955306138292446;
+        stroke-dashoffset: 27.88636847651723;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >196</text>
+      >197</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
