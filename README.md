@@ -20,6 +20,8 @@ I maintain a few packages in
   Energy bridge (Zigbee2MQTT -> BLE Environmental Sensing). Runs on Raspberry
   Pi.
   [![crates.io](https://img.shields.io/crates/v/mqttooth)](https://crates.io/crates/mqttooth)
+- [rainbowduino-rs](https://github.com/jecaro/rainbowduino-rs): Bare-metal
+  firmware for the [Rainbowduino] 8x8 RGB LED matrix (ATmega328).
 - [advent-of-code-2023](https://github.com/jecaro/advent-of-code-2023): My 
   solutions to the Advent of Code 2023.
 
@@ -72,4 +74,5 @@ I maintain a few packages in
 [ghciwatch]: https://github.com/MercuryTechnologies/ghciwatch
 [neovim]: https://neovim.io/
 [nixpkgs packages]: https://github.com/search?q=repo%3ANixOS%2Fnixpkgs+maintainers+jecaro+language%3ANix&type=code
+[Rainbowduino]: https://wiki.seeedstudio.com/Rainbowduino_LED_driver_platform-ATmega328/
 [squeezelite]: https://github.com/ralph-irving/squeezelite
